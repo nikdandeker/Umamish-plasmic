@@ -1,0 +1,180 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  transition-property: all;
+  transition-duration: 1s;
+  min-width: 0;
+}
+.freeBox__miEa2 {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  justify-content: space-between;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+}
+.freeBox__z0Vd {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 60%;
+  padding: 32px 24px;
+}
+.freeBox__z0Vd > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.freeBox__z0Vd > :global(.__wab_flex-container) > *,
+.freeBox__z0Vd > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__z0Vd > :global(.__wab_flex-container) > picture > img,
+.freeBox__z0Vd
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+.text__zTyGj {
+  position: relative;
+  font-size: 28px;
+  color: var(--token-1SYu2gGDApQJfE);
+}
+.text__gEgAc {
+  position: relative;
+  color: var(--token-0XiUg_xGfprVnO);
+  font-size: 40px;
+}
+.text__db7OG {
+  position: relative;
+  color: var(--token-71CAW9CL6n_atN);
+}
+.freeBox__ir4Yt {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.freeBox__m3TBf {
+  display: flex;
+  position: relative;
+  height: 1px;
+  flex-direction: row;
+  width: 32px;
+  flex-shrink: 0;
+  border: 1px solid var(--token-0XiUg_xGfprVnO);
+}
+.text__g7K0S {
+  position: relative;
+  color: var(--token-0XiUg_xGfprVnO);
+}
+.text__cBznd {
+  position: relative;
+  color: var(--token-XGPVzbprvj_4S3);
+  text-decoration-line: line-through;
+}
+.freeBox__tKq7P {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  margin-top: calc(24px + 12px) !important;
+}
+.freeBox__tKq7P > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__tKq7P > :global(.__wab_flex-container) > *,
+.freeBox__tKq7P > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__tKq7P > :global(.__wab_flex-container) > picture > img,
+.freeBox__tKq7P
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.linkButton___3JfSu:global(.__wab_instance) {
+  position: relative;
+}
+.linkButton__ux9Qc:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__eRsDj {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 40%;
+  height: 100%;
+  min-height: 0;
+}
+.img {
+  position: relative;
+  object-fit: contain;
+  width: 100%;
+  min-width: 0;
+}
+.img > picture > img {
+  object-fit: contain;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: contain;
+}
+.freeBox__f9Ez8 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__f9Ez8 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox__f9Ez8 > :global(.__wab_flex-container) > *,
+.freeBox__f9Ez8 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__f9Ez8 > :global(.__wab_flex-container) > picture > img,
+.freeBox__f9Ez8
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.svg__mu5Zv {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-YpGARJvtLwkZ-m);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__bvES {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-YpGARJvtLwkZ-m);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__zQmZm {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-YpGARJvtLwkZ-m);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
